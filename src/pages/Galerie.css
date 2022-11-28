@@ -1,0 +1,13 @@
+
+.GalerieContainer{
+    width: 90%;
+    margin: auto;
+}
+
+.GaleriePicture{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+    margin: 1rem;
+}

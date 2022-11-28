@@ -1,0 +1,12 @@
+.InfoSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ProfileImage{
+    width: 30vw;
+    height: auto;
+    margin: 2rem;
+}
