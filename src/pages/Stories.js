@@ -25,16 +25,26 @@ function Stories() {
         <article>
           <h2>Lima</h2>
           <h5>2 Weeks in Peru</h5>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-          </p>
+          <p>I went to Lima during the winter period. With the pandemic I might just as well have been the only tourist. I discovered the life in South America while taking Ubers to the shopping center and to tourist places in Miraflores. The highlight was a german beer with a flatmate's friend.</p>
         </article>
 
         <article>
           <h2>New York</h2>
-          <h5>November 2020 - 4 Weeks in the US</h5>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-          </p>
+          <h5>4 Weeks in the US</h5>
+          <p>Stepping out of Penn Station for the first time leaves a memorable impression for the rest of the life. New York is impossible to be described in a travel blog. During my stay I witnessed Halloween in the center of Manhattan. </p>
         </article>
+
+        <article>
+          <h2>Los Angeles</h2>
+          <h5>5 Weeks in the US</h5>
+          <p>I lived in an Airbnb in West Hollywood. At that time I was still working remotely as a web dev trainer during the nights. After finishing lessons around 6am in the morning I slept for just a short while before starting my descovery around LA. At that time the buses were free and they took me to the mountains and the beach. Also I celebrated my 28th birthday. You can see a picture of the club in the Galerie.</p>
+          </article>
+
+          <article>
+          <h2>Istanbul</h2>
+          <h5>8 days in Turkey</h5>
+          <p>In 2022 I went to Istanbul with a friend. We were mostly busy with the sightseeing. We booked a hotel in the center and went out with ferries or cabs. The food is impressive, just as the architecture and the people. On the east side we encountered a more lively area of Turkey. Here we found hippy bard, meetups and clubs. Istanbul was certainly worth its while. I will remember Turkey for its flavours, The best part was a Paulaner beer right in front of a VW Käfer.</p>
+          </article>
 
       </section>
       <footer>

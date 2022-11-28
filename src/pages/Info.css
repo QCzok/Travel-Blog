@@ -10,3 +10,15 @@
     height: auto;
     margin: 2rem;
 }
+
+@media (max-width: 900px) {
+    .InfoSection{
+        flex-direction: column;
+    }
+    
+    .ProfileImage{
+        width: 80%;
+        height: auto;
+        margin: 0rem;
+    }
+}
