@@ -2,8 +2,11 @@
 
 ## Description
 This is a TRAVEL BLOG.
-I write it with REACT and JavaScript.
+
+I developed it with REACT and JavaScript.
+
 For the Links I used REACT ROUTER DOM.
+
 I used basic CSS for Styling.
 
 ## Content
