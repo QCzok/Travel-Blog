@@ -9,7 +9,7 @@ function Info() {
   return (
     <div className="Info">
       <img src={HeaderC} alt='Cafe at a Shopping Center in Miami Downtown' className="HeaderImage" />
-      <Link className="StandardButton" to="/">RETURN</Link>
+      <Link className="StandardButton" to="/Travel-Blog">RETURN</Link>
         <section className="InfoSection">
           <article>
           <h2>Cheers!</h2>

@@ -54,7 +54,7 @@ function Galerie() {
   return (
     <div className="Galerie">
       <img src={HeaderD} alt='Hard Rock Caffee' className="HeaderImage" />
-      <Link className="StandardButton" to="/">RETURN</Link>
+      <Link className="StandardButton" to="/Travel-Blog">RETURN</Link>
       <section>
         <article>
           <h2>Barcelona</h2>

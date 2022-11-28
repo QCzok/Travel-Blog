@@ -13,15 +13,15 @@ function App() {
       <p className="headline">Jan Czok</p>
       <p className="headline">2020-2022</p>
       <section className="menu">
-        <Link className="item" to="/stories">
+        <Link className="item" to="/Travel-Blog/stories">
           <i className="fa-solid fa-book-atlas"></i>
           <p className='cursive'>Stories</p>
         </Link>
-        <Link className="item" to="/galerie">
+        <Link className="item" to="/Travel-Blog/galerie">
           <i className="fa-solid fa-camera-retro"></i>
           <p className='cursive'>Galerie</p>
         </Link>
-        <Link className="item" to="/info">
+        <Link className="item" to="/Travel-Blog/info">
           <i className="fa-solid fa-info"></i>
           <p className='cursive'>About me</p>
         </Link>

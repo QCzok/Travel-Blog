@@ -14,11 +14,10 @@ function App() {
   return(
     <BrowserRouter>
       <Routes>
-      <Route path="/" element={<Start />} />
       <Route path="/Travel-Blog" element={<Start />} />
-      <Route path="/stories" element={<Stories/>} />
-      <Route path="/galerie" element={<Galerie/>} />
-      <Route path="/info" element={<Info/>}/>
+      <Route path="/Travel-Blog/stories" element={<Stories/>} />
+      <Route path="/Travel-Blog/galerie" element={<Galerie/>} />
+      <Route path="/Travel-Blog/info" element={<Info/>}/>
       </Routes>
     </BrowserRouter>
   );
