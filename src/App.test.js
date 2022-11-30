@@ -1,8 +1,26 @@
-import { render, screen } from '@testing-library/react';
-import App from './App';
+import { render, screen, fireEvent } from '@testing-library/react';
+import { BrowserRouter } from 'react-router-dom';
+import Start from './pages/Start';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
+test('Start page with simple text match', () => {
+  render(
+    <BrowserRouter>
+      <Start />
+    </BrowserRouter>);
+  const linkElement = screen.getByText('Travel Blog');
   expect(linkElement).toBeInTheDocument();
+});
+
+test('Check Link functionality', () => {
+  render(
+    <BrowserRouter>
+      <Start />
+    </BrowserRouter>);
+  fireEvent(
+    screen.getByText('Galerie'),
+    new MouseEvent('click', {
+      bubbles: true,
+      cancelable: true,
+    }),
+  );
 });
