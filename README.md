@@ -25,8 +25,10 @@ Checkout the *develop* branch . it contains the most updated code
 
 Deployed to github pages via CLI.
 
-Command:
+Commands:
+`npm start`
 `npm run deploy`
+
 
 ## LIVE VERSION
 https://qczok.github.io/Travel-Blog/
