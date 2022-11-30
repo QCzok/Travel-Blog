@@ -28,10 +28,9 @@ Deployed to github pages via CLI.
 Commands:
 `npm start`
 
+
+
 `npm run deploy`
-
-
-
 
 ## LIVE VERSION
 https://qczok.github.io/Travel-Blog/
