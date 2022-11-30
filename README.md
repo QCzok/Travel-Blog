@@ -26,9 +26,7 @@ Checkout the *develop* branch . it contains the most updated code
 Deployed to github pages via CLI.
 
 Commands:
-`npm start`
-
-
+`npm test`
 
 `npm run deploy`
 
