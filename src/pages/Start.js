@@ -29,7 +29,7 @@ function App() {
       <footer>
         <h3>Disclaimer</h3>
         <p>This blog is personal; it's both written and edited by the author. No further party is represented or affiliated.</p>
-        <span><i class="fa-solid fa-at"></i></span>
+        <span><i className="fa-solid fa-at"></i></span>
         <p>Jan Czok</p>
         <p>jan.czok@outlook.de</p>
       </footer> 
